@@ -1,12 +1,12 @@
 
 
-require 'nn'
+-- require 'nn'
 require 'cunn'
 require 'cudnn'
 require 'RecurrentAttention'
 require 'RecurrentAttentionDynamic'
 require 'dpnn'
-require 'rnn'
+-- require 'rnn'
 require 'SpatialGlimpseCrop'
 require 'VRClassRewardN'
 require 'utils/DataParallelTable' 
